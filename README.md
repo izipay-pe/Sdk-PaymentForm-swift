@@ -21,7 +21,8 @@ Este manual está diseñado para ayudarte a comprender el flujo de la integraci�
 * Comprender el flujo de comunicación de la pasarela. [Información Aquí](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/javascript/guide/start.html)
 * Extraer credenciales del Back Office Vendedor. [Guía Aquí](https://github.com/izipay-pe/obtener-credenciales-de-conexion)
 * Solicitar la habilitación de API REST: **Pago a tráves de un SDK móvil para Android o IOS**
-* Para este proyecto utilizamos la herramienta Android Studio.
+* Para este proyecto utilizamos la herramienta XCode.
+* Tener instalado CocoaPods
 > [!NOTE]
 > Tener en cuenta que, para que el desarrollo de tu proyecto, eres libre de emplear tus herramientas preferidas.
 
@@ -29,10 +30,14 @@ Este manual está diseñado para ayudarte a comprender el flujo de la integraci�
 
 ### Clonar el proyecto:
   ```sh
-  git clone [https://github.com/izipay-pe/Sdk-PaymentForm-Kotlin.git]
+  git clone [https://github.com/izipay-pe/Sdk-PaymentForm-swift.git]
   ```
 ### Ejecutar proyecto
-Ejecutar el proyecto a través de Android Studio mediante el botón `Run`, debe tener configurado un `Virtual Device` para ejecutar la demo.
+Instalar las dependencias usando CocoaPods mediante el comando `pod update`
+
+Abrir el proyecto con el archivo `.xcworkspace`
+
+Editar los campos en el archivo `AppDelegate.Swift` publicKey: Reemplazar por tu clave pública que puedes encontrar en tu Back Office Vendedor. apiServerName: Reemplazar por el nombre del servidor API REST que puedes encontrar en tu Back Office Vendedor.
 
 <p align="center">
   <img src="https://i.postimg.cc/ZYDp46PK/Sdk-Play.png" alt="Run"/>
