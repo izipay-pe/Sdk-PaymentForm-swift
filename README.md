@@ -37,7 +37,6 @@ Instalar las dependencias usando CocoaPods mediante el comando `pod update`
 
 Abrir el proyecto con el archivo `.xcworkspace`
 
-Editar los campos en el archivo `AppDelegate.Swift` publicKey: Reemplazar por tu clave pública que puedes encontrar en tu Back Office Vendedor. apiServerName: Reemplazar por el nombre del servidor API REST que puedes encontrar en tu Back Office Vendedor.
 
 <p align="center">
   <img src="https://i.postimg.cc/ZYDp46PK/Sdk-Play.png" alt="Run"/>
