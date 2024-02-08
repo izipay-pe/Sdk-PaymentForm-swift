@@ -29,7 +29,7 @@ class ServerCommunication {
     var customerReference = "customerRef"
     
     var amount = 100
-    var currency = "EUR"
+    var currency = "PEN"
     var orderId = ""
     
     // Environment TEST or PRODUCTION, refer to documentation for more information
