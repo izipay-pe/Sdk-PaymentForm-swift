@@ -12,7 +12,7 @@ En este manual podrás encontrar una guía paso a paso para configurar un proyec
 Este manual está diseñado para ayudarte a comprender el flujo de la integración de la pasarela para ayudarte a aprovechar al máximo tu proyecto y facilitar tu experiencia de desarrollo.
 
 <p align="center">
-  <img src="https://i.postimg.cc/HxrG0F7Q/Simulator-Screenshot-i-Phone-15-Pro-2024-02-07-at-13-26-56.png" alt="Formulario" width="250"/>
+  <img src="https://i.postimg.cc/NjnpHDSf/Simulator-i-Phone-15-Pro.png" alt="Formulario" width="250"/>
 </p>
 
 <a name="Requisitos_Previos"></a>
@@ -34,6 +34,12 @@ Este manual está diseñado para ayudarte a comprender el flujo de la integraci�
   ```
 ### Ejecutar proyecto
 Instalar las dependencias usando CocoaPods mediante el comando `pod update`
+
+
+<p align="center">
+  <img src="https://i.postimg.cc/7hL2X8Tv/podupdate.png" alt="Run"/>
+</p>
+
 
 Abrir el proyecto con el archivo `.xcworkspace`
 
