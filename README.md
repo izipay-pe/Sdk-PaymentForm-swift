@@ -63,6 +63,14 @@ Abrir el proyecto con el archivo `.xcworkspace`
 </p>
 
 * Editar en `ServerCommunication` :
+
+  `kMerchantServerUrl` : Reemplazar por la URL del servidor del comercio.
+  
+  `username` : Reemplazar por el usuario que puedes encontrar en tu Back Office Vendedor.
+
+  `password` : Reemplazar por la contraseña que puedes encontrar en tu Back Office Vendedor.
+
+  
 <p align="center">
   <img src="https://i.postimg.cc/RhysDhG0/servercomunication.png" alt="Credentials"/>
 </p>
