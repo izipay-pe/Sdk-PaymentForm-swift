@@ -53,6 +53,8 @@ Abrir el proyecto con el archivo `.xcworkspace`
 **Nota**: Reemplace **[REMPLACE_ME]** con sus credenciales de `API REST` extraídas desde el Back Office Vendedor, ver [Requisitos Previos](#Requisitos_Previos).
 
 * Editar en `AppDelegate` :
+  `publicKey`: Reemplazar por tu clave pública que puedes encontrar en tu Back Office Vendedor.
+  `apiServerName`: Reemplazar por el nombre del servidor API REST que puedes encontrar en tu Back Office Vendedor.
 <p align="center">
   <img src="https://i.postimg.cc/X7LR2z8t/appdelegate.png" alt="Credentials"/>
 </p>
