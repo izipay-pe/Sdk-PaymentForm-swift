@@ -50,11 +50,16 @@ Abrir el proyecto con el archivo `.xcworkspace`
 
 ## 4. Datos de conexión 
 
-**Nota**: Reemplace **[CHANGE_ME]** con sus credenciales de `API REST` extraídas desde el Back Office Vendedor, ver [Requisitos Previos](#Requisitos_Previos).
+**Nota**: Reemplace **[REMPLACE_ME]** con sus credenciales de `API REST` extraídas desde el Back Office Vendedor, ver [Requisitos Previos](#Requisitos_Previos).
 
 * Editar en `AppDelegate` :
 <p align="center">
   <img src="https://i.postimg.cc/X7LR2z8t/appdelegate.png" alt="Credentials"/>
+</p>
+
+* Editar en `ServerCommunication` :
+<p align="center">
+  <img src="https://i.postimg.cc/RhysDhG0/servercomunication.png" alt="Credentials"/>
 </p>
 
 ## 5. Transacción de prueba
