@@ -33,11 +33,11 @@ Este manual está diseñado para ayudarte a comprender el flujo de la integraci�
   git clone [https://github.com/izipay-pe/Sdk-PaymentForm-swift.git]
   ```
 ### Ejecutar proyecto
-Instalar las dependencias usando CocoaPods mediante el comando `pod update`
 
+En la carpeta principal del proyecto, instalamos las dependencias usando CocoaPods. Abrimos la terminal, nos dirigimos a la carpeta y ejecutamos el comando `pod update`
 
 <p align="center">
-  <img src="https://i.postimg.cc/7hL2X8Tv/podupdate.png" alt="Run"/>
+  <img src="https://i.postimg.cc/XNDfYS3N/podupdate.png" alt="Run"/>
 </p>
 
 
