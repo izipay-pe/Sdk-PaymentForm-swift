@@ -45,7 +45,7 @@ Abrir el proyecto con el archivo `.xcworkspace`
 
 
 <p align="center">
-  <img src="https://i.postimg.cc/ZYDp46PK/Sdk-Play.png" alt="Run"/>
+  <img src="https://i.postimg.cc/FKQwzVC9/carpeta.png" alt="Run"/>
 </p>
 
 ## 4. Datos de conexión 
