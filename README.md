@@ -52,9 +52,9 @@ Abrir el proyecto con el archivo `.xcworkspace`
 
 **Nota**: Reemplace **[CHANGE_ME]** con sus credenciales de `API REST` extraídas desde el Back Office Vendedor, ver [Requisitos Previos](#Requisitos_Previos).
 
-* Editar en `java/com.lyra.sdk.sample.kotlin/Config.kt` :
+* Editar en `AppDelegate` :
 <p align="center">
-  <img src="https://i.postimg.cc/G27k95N9/Sdk-Credentials.png" alt="Credentials"/>
+  <img src="https://i.postimg.cc/X7LR2z8t/appdelegate.png" alt="Credentials"/>
 </p>
 
 ## 5. Transacción de prueba
