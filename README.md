@@ -12,7 +12,7 @@ En este manual podrás encontrar una guía paso a paso para configurar un proyec
 Este manual está diseñado para ayudarte a comprender el flujo de la integración de la pasarela para ayudarte a aprovechar al máximo tu proyecto y facilitar tu experiencia de desarrollo.
 
 <p align="center">
-  <img src="https://github.com/izipay-pe/Imagenes/blob/main/formulario_movil_sdk/Imagen-Formulario-SDKIos.png" alt="Formulario" width="250"/>
+  <img src="https://github.com/izipay-pe/Imagenes/blob/main/formulario_movil_sdk/Imagen-Formulario-SDKIos.png" alt="Formulario" width="550"/>
   
 </p>
 <a name="Requisitos_Previos"></a>
@@ -81,7 +81,7 @@ Antes de poner en marcha su pasarela de pago en un entorno de producción, es es
 Puede intentar realizar una transacción utilizando una tarjeta de prueba en el botón flotante de Test (en la parte superior derecha de la demo).
 
 <p align="center">
-  <img src="https://github.com/izipay-pe/Imagenes/blob/main/formulario_movil_sdk/Imagen-Formulario-SDKIos-testcard.png" alt="Test" width="250"/>
+  <img src="https://github.com/izipay-pe/Imagenes/blob/main/formulario_movil_sdk/Imagen-Formulario-SDKIos-testcard.png" alt="Test" width="550"/>
 </p>
 
 * También puede encontrar tarjetas de prueba en el siguiente enlace. [Tarjetas de prueba](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/api/kb/test_cards.html)
